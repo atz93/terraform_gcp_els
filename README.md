@@ -1,1 +1,0 @@
-#This is creating my own gcp environment for elasticsearch test!
